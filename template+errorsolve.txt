@@ -1,0 +1,6 @@
+https://github.com/go2ismail/AdminLTE-ASP-NET-MVC
+
+
+template run korte problem hole 
+project eer console e 
+Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
